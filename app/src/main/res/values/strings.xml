@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VKNet</string>
+
+    <string name="login">Залогиниться</string>
+    <string name="cancel">Отмена</string>
+
+    <string name="user_has_canceled">Операция отменена пользователем</string>
+    <string name="connection_error">Ошибка интернет-соединения</string>
+    <string name="check_internet_connection">Проверьте интернет-соединение</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="profile">Профиль</string>
+    <string name="retry">Повторить</string>
+    <string name="no_data">Нет данных</string>
+
+
+</resources>
